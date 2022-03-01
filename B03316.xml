@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The several statutes in force for the observation of Lent: and fish-dayes, at all other times of the year With full and ready notes in the margent, shewing the effect in brief. / Published by a well-wisher to peace, for the information of all persons subject to the violation of the said laws.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03316</idno>
+            <idno type="STC">Wing E923C</idno>
+            <idno type="STC">ESTC R207986</idno>
+            <idno type="EEBO-CITATION">53981513</idno>
+            <idno type="OCLC">ocm 53981513</idno>
+            <idno type="VID">180216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180216)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2820:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The several statutes in force for the observation of Lent: and fish-dayes, at all other times of the year With full and ready notes in the margent, shewing the effect in brief. / Published by a well-wisher to peace, for the information of all persons subject to the violation of the said laws.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert White, and are to be sold by him at his house in Warwick-Lane in Warwick-Court,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Imperfect: stained with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lent --  England --  Early works to 1800.</term>
+               <term>Ecclesiastical law --  England --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:180216:1" rendition="simple:additions"/>
+THE SEVERAL STATUTES In force for the obſervation of LENT: And FISH-dayes, at all other times Of the YEAR.</p>
+            <p>With full and ready notes in the margent; Shewing the effect in brief.</p>
+            <p>Publiſhed by a well-wiſher to peace, for the informa<g ref="char:EOLhyphen"/>tion of all perſons ſubject to the violation of the ſaid Laws.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert White,</hi> and are to be ſold by him at his houſe in <hi>Warwick</hi>-Lane in <hi>Warwick</hi>-Court. 1661.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:180216:2"/>
+            <opener>
+               <salute>Co<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>s Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſty having been <gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>d by his Pro<g ref="char:EOLhyphen"/>clamation lately pu<gap reason="illegible" resp="#UOM" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> to declare his Royal pleaſure, concer<gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> the obſerva<g ref="char:EOLhyphen"/>tion of Lent and fiſh <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, at all other times in the year, the obſervation of which of late years hath not been pra<g ref="char:EOLhyphen"/>ctized, By reaſon of which, many perſons are unac<g ref="char:EOLhyphen"/>quainted with the Laws in thoſe caſes, the knowledge of which is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f general concernment unto all. His Majeſty in his ſaid Proclamation, having declared, that offendors in this caſe ſhall be puniſhed according to Law. I have there<g ref="char:EOLhyphen"/>fore collected together ſo much of all the ſeveral Statutes, that are in force for the obſervation of the ſaid dayes and time as concerns th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſineſs: the firſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tatute you have wholly, the others <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wholly, but in part, yet the whole as to this <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> further <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, thoſe that pleaſe may read the ſeveral <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at large that are here but in part; in which th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe things ly intermixed amongſt other things. Knowing that all men have not the Statutes at large, therefore for the information of ſuch as have them not, I have made this collection, that they may be acquainted with the Laws in this caſe, and avoid the penalties therein contained; if any may be cautionated hereby, ſo as to pre<g ref="char:EOLhyphen"/>vent their ſufferings, I ſhall be heartily glad, as having the end anſwered, for which I have taken upon me to pub<g ref="char:EOLhyphen"/>liſh the ſame.</p>
+            <closer>
+               <signed>Yours, <hi>W. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="1" facs="tcp:180216:2"/>
+               <head>Anno ſecundo <gap reason="illegible" resp="#UOM" extent="4 words">
+                     <desc>〈◊◊◊◊〉</desc>
+                  </gap>. <hi>Eating of f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſh on certain dayes, and times <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </head>
+               <p>ALbeit the Kings Subj<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> now having a more perfect and clear light of the Goſpel, and true Word of God, through the infinite mercy and clemency of Almighty God, by the hands of the Kings Majeſty, and his moſt noble Father of famous memory, promulgate, ſhewed, declared, and opened, and thereby perceiving, that one day, or one meat of it ſelf, is not more holy, more pure, or more clean than another<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that all dayes and all meats be of their na<g ref="char:EOLhyphen"/>ture of one <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> purity, <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> holineſs, and that all men ſhould <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> live, <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> of God, and at all times, and for all meats, give <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> him, of which meats none can defile Chriſtian men, or ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them unclean at any time, to whom all meats be lawful and pure, ſo that they be not uſed in diſobedience or vice: Yet <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as divers of the Kings Subjects, turning their knowledge therein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſatisfie their ſenſuality, where they ſhould thereby increaſe in vertue, have of late time more than in times paſt, broken and contemned ſuch abſtinence which hath been uſed in this Realm, upon the Frydayes and Saturdayes, the Embring dayes, and other dayes, commonly called Vigils, and in the come commonly called Lent, and other accuſtomed times<hi>:</hi> the Kings Majeſty conſidering, that due and godly abſti<g ref="char:EOLhyphen"/>nence is a mean to vertue, and to ſubdue mens bodies to their ſoul and ſpirit, and conſidering alſo that Fiſhers, and men uſing the trade of living by fiſhing in the Sea, may thereby the rather be ſet on work, and that by eating of fiſh much fleſh ſhall be ſaved and increaſed, and alſo for divers other conſiderations and commodities of this Realm, doth ordain and enact, with the aſſent of the Lords ſpiritual and temporal, and the Commons in this preſent Parliament aſ<g ref="char:EOLhyphen"/>ſemble<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd by the authority of the ſame, that all manner
+<pb n="2" facs="tcp:180216:3"/>
+of Statutes, Laws, Conſtitutions, and Uſages, concerning any manner of faſting or abſtinence from any kinds of meats, heretofore in this Realm made or uſed, ſhall from the firſt day <note place="margin">All Laws con<g ref="char:EOLhyphen"/>cerning faſt<g ref="char:EOLhyphen"/>ing repealed.</note> of <hi>May</hi> next enſuing, loſe their force and ſtrength, and be void and of none effect.</p>
+               <p>
+                  <note place="margin">The penalty for eating of fleſh upon any day uſed commonly as a fiſh day. <hi>St.</hi> 5. <hi>El.</hi> 5.27. <hi>El.</hi> 11.</note> And alſo that no perſon or perſons, of what eſtate, degree, or condition he or they be, ſhall at any time after the ſaid firſt day of <hi>May</hi> in the year of our Lord God, M D xlix. willingly and wittingly eat any manner of fleſh, after what manner of kind or ſort it ſhall be ordered, dreſſed, or uſed, upon any Fryday or Saturday, or the Embring dayes, or in any day in the time commonly called Lent, nor at any ſuch other day, as is or ſhall be at any time hereafter commonly accepted and reputed as a fiſh day, within this Realm of <hi>England,</hi> wherein it hath been commonly uſed for to eat fiſh and not fleſh, upon pain that every perſon eating any man<g ref="char:EOLhyphen"/>ner of fleſh upon any of the ſaid dayes or times prohibited by this Act, to forfeit for the ſaid firſt offence, ten ſhillings of lawful money of <hi>England,</hi> and alſo to ſuffer impriſon<g ref="char:EOLhyphen"/>ment, by the ſpace of ten dayes, and during the time of his or her ſaid impriſonment, to abſtain from eating of any man<g ref="char:EOLhyphen"/>ner of fleſh.</p>
+               <p>
+                  <note place="margin">The penalty for the ſecond offence.</note> And if any perſon after he ſhall be lawfully convict of any offence contrary to this Act, doth eftſoons offend, contrary to this Act, and be thereof lawfully convict, that then every perſon ſo offending the ſecond time, ſhall for his ſecond offence forfeit twenty ſhillings of lawful money of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and alſo ſuffer impriſonment by the ſpace of twenty dayes, and during the time of his or her ſaid impriſonment, to abſtain from eating of any manner of fleſh, and ſo like pain and impriſonment as often as he or ſhe afterwards ſhall offend.</p>
+               <p>
+                  <note place="margin">Juſt. of G. delivery and P. ſhall determine theſe offences.</note> And furthermore, it is ordained and enacted by the au<g ref="char:EOLhyphen"/>thority aforeſaid, that Juſtices of Goal delivery, and Juſtices of peace, in all and ſingular Counties, Cities, Towns corpo<g ref="char:EOLhyphen"/>rate, and other places within this Realm of <hi>England,</hi> and other the Kings Dominions, ſhall have full power and au<g ref="char:EOLhyphen"/>thority to enquire, hear and determine all and all manner offences, that ſhall be committed or done contrary to this
+<pb n="3" facs="tcp:180216:3"/>
+Act, in like manner and form as they may enquire, hear and determine any treſpaſs or other offence, againſt the Kings peace committed or done, within the limits or place where they then ſhall be Juſtices of Goal delivery or Juſtices of peace. And the moity of every ſuch forfeiture, ſhall be extreated into the Court of the Exchequer, in like manner and form, as fines for any treſpaſs, or other offence commit<g ref="char:EOLhyphen"/>ted againſt the Kings peace, ought or ſhould be extreated: and the other moity of the ſaid forfeiture ſhall be to him that will ſue for the ſame, by bill, plaint, information, or otherwiſe, in any of the Kings Courts of record, in which no eſſoin, protection, or wager of law ſhall be allowed.</p>
+               <p>
+                  <note place="margin">To what perſons this Statute ſhall not extend.</note> Provided alwayes, and be it ordained and enacted by the authority aforeſaid, that this Act or any thing therein con<g ref="char:EOLhyphen"/>tained, ſhall not in any wiſe extend to any perſon or perſons that heretofore hath, or hereafter ſhall have obtained any licence of our Soveraign Lord the King, his Heirs or Suc<g ref="char:EOLhyphen"/>ceſſors, nor to any perſon being in great age, and in debility and weakneſs thereby, nor to any perſon being ſick or not<g ref="char:EOLhyphen"/>ably hurt, without fraud or covin, during the time of his or her ſaid ſickneſs; nor to any woman being with child, or lying in child-bed, for eating of ſuch one kind of fleſh as ſhe ſhall have great luſt unto, nor to any perſon being in priſon, for any other offence, than for any offence contrary to this Act, neither to any that is, or hereafter ſhall be the Kings High<g ref="char:EOLhyphen"/>neſs Lieutenant, Deputy or Captain of any his Majeſties Army, Hold or Fortreſs<hi>:</hi> but the ſame themſelves may eat fleſh, and licence and permit their ſouldiers to do the ſame in times prohibited, upon the want and lack of other kind of victual<hi>:</hi> neither ſhall extend to St. <hi>Laurence</hi> even, St. <hi>Marks</hi> day, or any other day or even being abrogate, neither to any <note place="margin">Saint <hi>Laurence</hi> even and St. <hi>Marks</hi> day.</note> ſuch as heretofore have obtained any licence, in due form of the Archbiſhop of <hi>Canterbury.</hi>
+               </p>
+               <p>And further, be it enacted by authority aforeſaid, that all Archbiſhops, Biſhops, Archdeacons, and their Officers, or the Officers of any of them, ſhall have power to enquire of the offendors in the premiſſes, and preſent the ſame to ſuch from time to time, as by vertue of this Act have authority to hear and determine the ſame.</p>
+               <p>
+                  <pb n="4" facs="tcp:180216:4"/>
+Provided alwayes, and be it enacted, that no manner of perſon or perſons, be impeached, moleſted or troubled, or <note place="margin">Within what time the offendor ſhall be indicted.</note> ſhall incur any pain, penalty, or forfeiture for any offence contrary to the Act before rehearſed, committed or done, except he or they be accuſed, convented, or indicted, of and for the ſaid offence, according to the tenour of this Statute, within three moneths next after the committing of the ſaid offence, 5. <hi>&amp;</hi> 6. <hi>Ed.</hi> 6. 3.</p>
+            </div>
+            <div type="part">
+               <head>Anno quinto &amp; ſexto Edwardi ſexti. CAP. III. <hi>Which ſhall be Faſting dayes.</hi>
+               </head>
+               <p>AND it is alſo enacted by the authority aforeſaid, That <note place="margin">Which dayes ſhall be com<g ref="char:EOLhyphen"/>manded and kept faſting dayes.</note> every even or day next going before any of the fore<g ref="char:EOLhyphen"/>ſaid dayes of the Feaſts of the Nativity of our Lord, of Eaſter, of the Aſcenſion of our Lord, Pentecoſt, of the Purification, and the Annunciation of the aforeſaid bleſſed Virgin, of All Saints, and of all the ſaid Feaſts of the Apoſtles, (other than of St. <hi>John</hi> the Evangeliſt, and <hi>Philip</hi> and <hi>Jacob)</hi> ſhall be faſted, and commanded to be kept, and obſerved, and that none other even or day ſhall be commanded to be faſted.</p>
+               <p>And it is enacted by the authority aboveſaid, that it ſhall <note place="margin">Pun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhment of o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fendors by the Eccle<g ref="char:EOLhyphen"/>ſiaſtical Law.</note> be lawful to all Archbiſhops, and Biſhops in their Dioceſſes, and to all other having Eccleſiaſtical or Spiritual juriſdiction, to enquire of every perſon that ſhall offend in the premiſſes, and to puniſh every ſuch offendor, by the Cenſurers of the Church, and to enjoyn him, or them ſuch penance, as ſhall be to the Spiritual Judge, by his direction thought meet and convenient.</p>
+               <p>Provided alwayes, that this Act, or any thing therein con<g ref="char:EOLhyphen"/>tained, ſhall not extend to abrogate or take away, the ab<g ref="char:EOLhyphen"/>ſtinence <note place="margin">Abſtinence f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om fleſh in L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt, <hi>F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ydayes</hi> &amp; <hi>Saturdayes.</hi> 2. <hi>&amp;</hi> 3. <hi>Ed.</hi> 6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9.</note> from fleſh in Lent, or on Frydayes and Saturdayes, or any other day, which is already appointed ſo to be kept, by vertue of an Act, made and provided in the third year of
+<pb n="5" facs="tcp:180216:4"/>
+the raign of our Soveraign Lord the Kings Majeſty that now is, ſaving only of thoſe evens or dayes, whereof the holy day next following is abrogated by this Statute, any thing above<g ref="char:EOLhyphen"/>mentioned to the contrary in any wiſe notwithſtanding.</p>
+               <p>Provided alſo, and it is enacted by the authority aforeſaid, <note place="margin">When the <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> ſhall be faſted in ſtead of the <hi>Sunday.</hi>
+                  </note> that when, and ſo often, as it ſhall chance any of the ſaid Feaſts, (the evens whereof be by this Statute commanded to be obſerved, and kept faſting day) to fall upon the Munday: that then, as it hath alwayes been heretofore accuſtomably uſed, ſo hereafter the Saturday then next going before any ſuch Feaſt, or Holy day, and not the Sunday, ſhall be com<g ref="char:EOLhyphen"/>manded to be faſted for the even of any ſuch Feaſt, or Holy day, any thing in this Statute before mentioned or declared to the contrary in any wiſe notwithſtanding.</p>
+               <p>Provided alwayes, and it is enacted by the authority afore<g ref="char:EOLhyphen"/>ſaid, <note place="margin">In what caſes ſome perſons may labour upon the holy day.</note> that it ſhall be lawful to every Husbandman, Labourer, Fiſherman, and to all and every other perſon and perſons of what eſtate, degree, or condition he, or they be, upon the Holy dayes aforeſaid, in Harveſt, or at any other times in the year, when neceſſity ſhall require, to labour, ride, fiſh, or work any kind of work, at their free wills and pleaſure, any thing in this Act to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            </div>
+            <div type="part">
+               <head>Anno quinto Reginę Elizabethę. CAP. V. <hi>Conſtitutions for the maintenance of the Navy,</hi> &amp;c.</head>
+               <p>BE it further enacted, that from the Feaſt of Saint <note place="margin">Every <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi> ſhall be fiſh day. <hi>Exp. St.</hi> 27. <hi>El.</hi> 11. <hi>St.</hi> 3. <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</hi> 4.</note> 
+                  <hi>Michael</hi> the Archangel, in the year of our Lord God M D lxiv. every Wedneſday in every week through<g ref="char:EOLhyphen"/>out the whole year, which heretofore hath not by the laws or cuſtoms of this Realm been uſed and obſerved as a fiſh day, and which ſhall not happen to fall in Chriſtmas week, or Eaſter week, ſhall be hereafter obſerved and kept
+<pb n="6" facs="tcp:180216:5"/>
+as the Saturdayes in every week be or ought to be. And that no manner of perſon ſhall eat any fleſh on the ſame day, otherwiſe then ought to be upon the common Saturday.</p>
+               <p>And be it further enacted by the authority aforeſaid, for <note place="margin">All fiſh dayes ſhall be obſerved.</note> the benefit and commodity of this Realm, to grow as well in maintenance of the Navy, as in ſparing and increaſe of fleſh, victual of this Realm: that from and after the Feaſt of Pen<g ref="char:EOLhyphen"/>tecoſt next coming, it ſhall not be lawful to any perſon or perſons within this Realm, to eat any fleſh upon any dayes now uſually obſerved as fiſh dayes, or upon any <hi>Wedneſday</hi> now newly limited to be obſerved as fiſh day, upon pain that every perſon ſo offending herein, ſhall forfeit three pound for every time he or they ſhall offend, or elſe ſuffer three moneths <note place="margin">Forfeiture of three pound, or three moneths cloſe impriſonment, for eating of fleſh upon dayes prohi<g ref="char:EOLhyphen"/>bited. <hi>Alt.</hi> 35. <hi>El.</hi> 7. Forfeiture of the houſholder where fleſh is eaten. How the for<g ref="char:EOLhyphen"/>feiture ſhall be beſtowed. A proviſo for them which have licences to eat fleſh.</note> cloſe impriſonment without bail or mainpriſe.</p>
+               <p>And every perſon or perſons within whoſe houſe any ſuch offence ſhall be done, and being privy or knowing thereof, and not effectually publiſhing or diſcloſing the ſame to ſome publick Officer, having authority to puniſh the ſame, for every ſuch offence to forfeit forty ſhillings. All which for<g ref="char:EOLhyphen"/>feitures for not abſtaining from meats, ſhall be divided into three equal parts<hi>:</hi> That is, one part to the uſe of the Queens Majeſty, her Heirs or Succeſſors, the other part to the In<g ref="char:EOLhyphen"/>former, the third to the common uſe of the Pariſh where the offence is or ſhall be committed, and to be levied by the Churchwardens, after any conviction in that behalf.</p>
+               <p>Provided alwayes, and be it enacted, that this Act, nor any thing herein contained, concerning eating of fleſh, ſhall in any wiſe extend to any perſon or perſons, that ſhall here<g ref="char:EOLhyphen"/>after have any ſpecial licence, upon cauſes to be contained in the ſame licence, and to be granted according to the laws of this Realm in ſuch caſes provided.</p>
+               <p>All and every which ſaid licence and licences, ſhall be void to all intents, unleſs the ſame contain the conditions hereafter <note place="margin">How much every perſon ſhall pay for his licence.</note> mentioned<hi>:</hi> That is to ſay, every licence made to any per<g ref="char:EOLhyphen"/>ſon or perſons being of the degree of a Lord of Parliament, or of their wives, ſhall be upon condition, that every ſuch perſon ſo to be licenced, ſhall pay to the poor mens box within the Pariſh where they ſhall dwell or remain, in the Feaſt of the pu<g ref="char:EOLhyphen"/>rification of the bleſſed Virgin <hi>Mary,</hi> or within ſix dayes after
+<pb n="9" facs="tcp:180216:5"/>
+the ſame Feaſt, ſix and twenty ſhillings and eight pence, the ſame to be paid within one moneth next after the ſame Feaſt, upon pain of forfeiture of every ſuch licence. And every licence to any perſon of the degree of a Knight, or a Knights wife, ſhall be upon condition, that every ſuch perſon ſo licenced, ſhall pay yearly thirteen ſhillings and four pence, to the uſe aforeſaid and in form afore-mentioned. And every licence to any perſon or perſons being under the degrees above ſaid, ſhall be upon condition, that every ſuch perſon ſo licenced, ſhall pay yearly ſix ſhillings and eight pence to the ſaid uſe, and in form afore-mentioned.</p>
+               <p>Provided alwayes, that no licence ſhall extend to the eat<g ref="char:EOLhyphen"/>ing of any Beef at any time of the year, nor to the eating of any Veal in any year, from the Feaſt of St. <hi>Michael</hi> the Arch<g ref="char:EOLhyphen"/>angel, unto the firſt day of <hi>May.</hi>
+               </p>
+               <p>Provided alſo, that all perſons which by reaſon of notorious <note place="margin">Licences in times of ſick<g ref="char:EOLhyphen"/>neſs.</note> ſickneſs, ſhall be enforced for recovery of health to eat fleſh for the time of their ſickneſs, ſhall be ſufficiently licenced by the Biſhop of the Dioceſs, or by the Parſon, Vicar, or Curate of the Pariſh where ſuch perſon ſhall be ſick, or of one of the next Pariſh adjoyning, if the ſaid Parſon, Vicar, or Curate of his or their own Pariſh be wilfull, or if there be no Curate within the ſame Pariſh. Which licence ſhall be made in writing ſigned with the hand of the Biſhop of the Dioceſs, or of the Parſon, Vicar, or Curate, and not endure longer than the time of the ſickneſs. And that if the ſickneſs ſhall con<g ref="char:EOLhyphen"/>tinue above the ſpace of eight dayes after ſuch licence grant<g ref="char:EOLhyphen"/>ed, then the licence ſhall be regiſtred in the Church book, with the knowledge of one of the Churchwardens, and the party licenced ſhall give to the Curate four pence for the entry thereof, and that licence to endure no longer, but only for the time of his, her, or their ſickneſs.</p>
+               <p>And if any licence by any Parſon, Vicar, or Curate, be granted to any perſon or perſons, other then ſuch as evident<g ref="char:EOLhyphen"/>ly appear to have need thereof, by reaſon of their ſickneſs<hi>:</hi> 
+                  <note place="margin">The licences granted to any perſons before the making of this act ſhall extend to the <hi>Wedneſdayes.</hi>
+                  </note> not only every ſuch licence ſhall be void, but alſo every ſuch Parſon, Vicar, or Curate, ſhall forfeit for every ſuch licence otherwiſe granted, five marks.</p>
+               <p>Provided alſo, and be it enacted, that all licences heretofore
+<pb n="8" facs="tcp:180216:6"/>
+granted to any ſubject of this Realm, by any of the late Kings, or by the late Queen <hi>Mary,</hi> or by the Queens Ma<g ref="char:EOLhyphen"/>jeſty now being, or by any Archbiſhop of this Realm, having authority ſo to do, ſhall be of as good force in Law for the <hi>Wedneſday</hi> now limited, and other accuſtomed fiſh dayes, as they were before the making of this Act, for the ſaid other accuſtomed fiſh dayes, ſo as the parties licenced, do hereafter obſerve all ſuch conditions as be limited in this eſtatute, to ſuch as ſhall hereafter obtain any licences.</p>
+               <p>And ſuch perſons alſo as heretofore were or ought to be licenced by reaſon of age, or other impediment or cauſe, by <note place="margin">Licences by <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Law Eccleſiaſtical.</note> order of the Eccleſiaſtical Laws, ſhall enjoy the ſame privi<g ref="char:EOLhyphen"/>ledge and accuſtomed licences: Any thing in this Act to the contrary hereof, in any wiſe notwithſtanding.</p>
+               <p>And if any perſon or perſons ſhall be preſented before the ſaid Judges, Juſtices, or Officers, within the limits of their authorities, or any information given to them of any offendor of this Act, that then they ſhall have full power and authority upon any ſuch preſentment or information, to make pro<g ref="char:EOLhyphen"/>ceſs againſt the offendors of this Act, like as is commonly uſed upon indictments of treſpaſs. And if any be preſented, and afterward be convicted, by confeſſion or otherwiſe, that then every ſuch perſon ſhall ſuffer no leſs forfeiture or puniſhment then herein is before limited: all which for<g ref="char:EOLhyphen"/>feitures to be levied in manner and form following. That is to ſay, ſuch forfeitures concerning eating of fleſh, as are before limited, to certain uſes, to be to the ſame uſes in that behalf before expreſſed: and all ſuch forfeitures as accord<g ref="char:EOLhyphen"/>ing to the tenour of the Act ſhall be determinable before the ſaid Judges, Juſtices, or other Officers of the Admiralties aforeſaid, or before Commiſſioners of <hi>Oyer</hi> and <hi>Terminer,</hi> in that behalf, ſhall be to the uſe of the Lord Admiral of <hi>England,</hi> or Lord Warden of the Cinque Ports, where ſuch <note place="margin">Who ſhall have the benefit of all <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> forfeitures aforeſaid.</note> offence ſhall be preſented, or whereas the juriſdiction of the cauſe ſhall appertain.</p>
+               <p>And all ſuch forfeitures, as according to the tenour of this Act ſhall be determinable before Majors, Sheriffs, Bayliffs, or other head Officers of Cities or Towns corporate, ſhall be to the common uſe of the Corporation of the ſaid City, or
+<pb n="9" facs="tcp:180216:6"/>
+Town corporate, where ſuch offences ſhall be preſented, or whereas the juriſdiction of the cauſe ſhall appertain.</p>
+               <p>And all ſuch forfeitures, as according to the tenour of this Act ſhall be determinable before the Juſtices of the Peace, ſhall be to the uſe of the Queens Majeſty, her Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors. And if any perſon ſhall be convict by confeſſion, or otherwiſe upon any information made by any perſon or perſons, againſt any offendor or offendors of this Act, in any cauſe (ſave for the eating of fleſh firſt before ſpecially limited) that then every ſuch perſon ſo convict upon any information, ſhall looſe ſuch forfeiture as is before limited, the one half to ſuch as ſhall make the information, and the other half to thoſe which upon preſentment without ſpecial information are before limited to have the whole forfeiture.</p>
+               <p>And that for the levying of every forfeiture growing by this eſtatute, as well the ſaid Lord Admiral of <hi>England,</hi> Lord Warden of the Cinque Ports, their Lieutenants and Judges, as the ſaid Juſtices, Mayors, Sheriffs, Bayliffs, and other head Officers within the limits of their Commiſſions or authorities, have and ſhall have full power and authority to make ſuch proceſs, as they ſhall think good by their diſcretions.</p>
+               <p>Provided alwayes, that none information at the ſuit of any <note place="margin">What Proceſs ſhall be awarded againſt offendor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Within what time an infor<g ref="char:EOLhyphen"/>mation ſhall be made after the offence committed.</note> perſon concerning this Act, ſhall be of any effect to put any perſon to anſwer or loſs of forfeiture, except the ſaid in<g ref="char:EOLhyphen"/>formation be commenced within half a year next after the offence done contrary to this Act, nor that any information, or preſentment for the Queens Majeſty, her Heirs or Suc<g ref="char:EOLhyphen"/>ceſſors, or for the Admiral, Warden of the Cinque Ports, Mayors, or other Officers aforeſaid, be of any effect, to put any perſon to any anſwer or loſs of any forfeiture by vertue of this Act, except the ſaid information or preſentment be within one year next after the offence done and committed contrary to this Act.</p>
+               <p>Provided and be it likewiſe enacted, that it ſhall be lawfull <note place="margin">What diet each perſon muſt have upon his table on the <hi>Wed<g ref="char:EOLhyphen"/>neſday,</hi> which ſhall have licence to eat fleſh.</note> to any perſon or perſons, to have at his or their table, upon every <hi>Wedneſday,</hi> being ordered by this eſtatute to be obſer<g ref="char:EOLhyphen"/>ved as a fiſh day, one only uſual competent diſh of fleſh, of one kinde and no more, ſo that he, ſhe, or they have alſo ſerved to the ſame table, and meat at the ſame meal, three
+<pb n="12" facs="tcp:180216:7"/>
+full competent uſual diſhes of Sea-fiſh, of ſundry kinds, eithe<g ref="char:EOLhyphen"/>freſh or ſalt, and that without fraud or covin, and ſo ſhall al<g ref="char:EOLhyphen"/>ſo order, that the ſame fiſh be meet and ſeaſonable, and that it ſhall be eaten or ſpent in like manner, as upon <hi>Fridayes</hi> or <hi>Saturdayes</hi> in like caſe are uſed.</p>
+               <p>And alſo ſuch perſons as have, or hereafter ſhall have, upon good and juſt conſideration, any lawfull licence to eat fleſh upon any fiſh day (except ſuch perſons, as for ſickneſs ſhall for the time be licenced by the Biſhop of the Dioceſs, or by their Curates, or ſhall be licenced by reaſon of age, or other impediment, allowed heretofore by the Eccleſiaſtical laws of this Realm) ſhall be bound by force of this Statute, to have for every one diſh of fleſh ſerved to be eaten at their table, one uſual diſh of Sea-fiſh freſh or ſalt, to belikewiſe ſerved at the ſame table, and to be eaten or ſpent without fraud or covin, as the like kind is, or ſhall be uſually eaten or ſpent on <hi>Saturdayes.</hi>
+               </p>
+               <p>And that theſe two Articles and clauſes next above, ſhall be taken and interpreted from time to time, in the favour of expence of Sea-fiſh, and that the offendor or offendors here<g ref="char:EOLhyphen"/>in, ſhall be puniſhed in like manner, as is ordered by this eſtatute, for puniſhment of ſuch as ſhall eat fleſh upon <hi>Fri<g ref="char:EOLhyphen"/>dayes, Saturdayes,</hi> or other fiſh-dayes.</p>
+               <p>And becauſe no manner of perſon ſhall miſ-judge of the intent of this eſtatute, limiting orders to eat fiſh, and to for<g ref="char:EOLhyphen"/>bear <note place="margin">The intent of this ſtatute touching eat<g ref="char:EOLhyphen"/>ing of fiſh, and forbearing of fleſh.</note> eating of fleſh, but that the ſame is purpoſely intended and meant politickly for the increaſe of Fiſhermen and Mar<g ref="char:EOLhyphen"/>riners, and repairing of Port Towns and Navigation, and not for any ſuperſtition to be maintained in the choice of meats.</p>
+               <p>Be it enacted, that whoſoever ſhall by preaching, teach<g ref="char:EOLhyphen"/>ing, writing, or open ſpeech notifie, that any eating of fiſh, <note place="margin">Spreaders of falſe news.</note> or forbearing of fleſh mentioned in this Statute, is of any ne<g ref="char:EOLhyphen"/>ceſſity for the ſaving of the ſoul of man, or that it is the ſervice of God, otherwiſe then as other politick Laws are and be, that then ſuch perſons ſhall be puniſhed as ſpreaders of faſle news are and ought to be.</p>
+               <p>This Act to continue and endure to the end of the next Parliament, 3 <hi>Caroli Cap.</hi> 4. continued untill the end of the firſt ſeſſion of the next Parliament.</p>
+               <p>
+                  <pb n="13" facs="tcp:180216:7"/>
+THE puniſhment of ſuch perſons as are ſpreaders of falſe news, by the Sta. 3. <hi>Ed.</hi> 1. 33. 2. <hi>Rich.</hi> 2. 5. 12. <hi>Rich.</hi> 2. 11. Which is to be kept in priſon while they produce their authors: and if the author be not to be found, then they to be puniſhed by the advice of the Council.</p>
+            </div>
+            <div type="part">
+               <head>A Branch of the Statutes of <hi>Anno</hi> 35. <hi>Reginae Elizabethae Cap.</hi> 7. Entituled, <hi>Several Statutes made in the raign of King</hi> Hen. 8. <hi>King</hi> Edw. 6. <hi>and Queen</hi> Eliz. <hi>revived and continued, and certain other Statutes repealed,</hi> &amp;c.</head>
+               <p>IN which Statute among other things, it is provided and enacted, as followeth.</p>
+               <p>Provided alſo, and be it enacted by the authority aforeſaid, <note place="margin">A diminution of the penal<g ref="char:EOLhyphen"/>ties contained in the ſtatute of 5. <hi>El. Cap.</hi> 5. for eating of fleſh upon fiſh dayes.</note> that every perſon eating any fleſh upon any fiſh dayes con<g ref="char:EOLhyphen"/>trary to the form of the ſaid Statute made for the mainte<g ref="char:EOLhyphen"/>nance of the Navy, ſhall forfeit only twenty ſhillings, or elſe ſuffer only one moneths cloſe impriſonment without bail or mainpriſe. And every perſon or perſons within whoſe houſe any ſuch offence ſhall be done, and being privy or knowing thereof, and not effectually publiſhing or diſcloſing the ſame to ſome publick officer, having authority to puniſh the ſame, for every ſuch offence, to forfeit only thirteen ſhil<g ref="char:EOLhyphen"/>lings four pence, any thing in the ſaid Statute contained to the contrary notwithſtanding.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:180216:8"/>
+               <head>A Branch of the Statute of <hi>Anno</hi> 3. <hi>Caroli Cap.</hi> 4. Entituled, <hi>Divers Statutes made perpetual, others continued, and ſome others repealed, when corn may be tranſport<g ref="char:EOLhyphen"/>ed,</hi> &amp;c.</head>
+               <p>IN which Statute among other things, it is provided and en<g ref="char:EOLhyphen"/>acted, as followeth.</p>
+               <p>
+                  <note place="margin">It ſeemeth by this Branch, that <hi>Wedneſday</hi> is not to be obſerved as a fiſh day.</note> And ſo much of an Act made in the fifth year of the raign of the late Queen <hi>Elizabeth,</hi> Entituled, An Act touching cer<g ref="char:EOLhyphen"/>tain politick conſtitutions made for the maintenance of the Navy, as is not repealed by any later Statute, nor doth con<g ref="char:EOLhyphen"/>cern the eating of fleſh or uſing of fiſh upon the <hi>Wedneſday,</hi> nor the tranſportation of herring or other Sea-fiſh, nor freedom of Subſidy, Cuſtom, or Tonnage for the ſame, nor tranſportation of Corn, nor the prohibiting the bringing into this Realm any Cod or Lings in Barrels or other Caskes, together with all and every other additions, explanations, and alterations made thereunto or thereof, or of any part thereof by any Statute or Statutes made ſince the making of the ſaid laſt mentioned Act, and in force the laſt day of the Seſſion of Parliament that was in the 21. year of the raign of the late King <hi>James,</hi> ſhall continue in force untill the end of the firſt Seſſion of the next Parliament.</p>
+            </div>
+            <div type="part">
+               <head>A Branch of the Statute made <hi>Anno decimo ſeptimo Caroli Regis.</hi> Entituled, <hi>An Act for the further relief of his Majeſties army and the Northern parts of the Kingdom.</hi>
+               </head>
+               <p>IN which Statute among other things, it is provided and enacted, as followeth.</p>
+               <p>
+                  <pb n="13" facs="tcp:180216:8"/>
+Provided and be it enacted by the authority aforeſaid, that the paſſing of this preſent Act, or of any other Act or Acts, or his Majeſties Royal aſſent to them, or any of them in this preſent Seſſion of Parliament, ſhall not be any determination of the ſaid Seſſion, and that all Statutes and Acts of Parlia<g ref="char:EOLhyphen"/>ment which have their continuance, or were by an Act of Par<g ref="char:EOLhyphen"/>liament made in the third year of the raign of his Majeſty that now is, Entituled, <hi>An Act for the continuance and repeal of divers Statutes, continued untill the end of the firſt Seſſion of the next Parliament:</hi> ſhall by vertue of this Act be adjudged ever ſince the Seſſion of Parliament in the ſaid third year, to have been of ſuch force and effect as the ſame were the laſt day of that Seſſion, and from thenceforth, untill ſome other Act of Parliament be made touching the continuance or diſ<g ref="char:EOLhyphen"/>continuance of the ſaid Statutes and Acts in the ſaid Act of the third year of his Majeſties raign, continued as aforeſaid.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
